@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+#heroTitle {
+  font-family: "Source Code Pro", monospace;
+  align-items: center;
+  text-align: center;
+  color: antiquewhite;
+  padding-bottom: 0px;
+}
+
+#heroTag {
+  font-family: "Source Code Pro", monospace;
+  align-items: center;
+  text-align: center;
+  color: antiquewhite;
+}
+
+hr {
+  padding-top: 0px;
+  width: 340px;
+  border: 1px solid red;
+}
+
+#ltgtColor {
+  color: red;
+}
