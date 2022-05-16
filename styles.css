@@ -30,14 +30,13 @@ body {
   color: red;
 }
 
-
 .pageLinks {
   font-family: "Source Code Pro", monospace;
   align-items: center;
   text-align: center;
 }
 
-li a {
+.pwLink a {
   list-style: none;
   text-decoration: none;
   color: antiquewhite;
