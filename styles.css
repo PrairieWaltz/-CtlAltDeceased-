@@ -58,5 +58,24 @@ body {
 button {
   border-radius: 10%;
   background-color: red;
-  border: 1px solid antiquewhite;
+}
+
+button :hover {
+  color: black;
+  transition: 0.5s;
+}
+
+.container {
+  height: 20px;
+  position: relative;
+  border: none;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translateY(-50%, -50%);
+  transform: translateY(-50%, -50%);
 }
