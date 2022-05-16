@@ -18,12 +18,32 @@ body {
   color: antiquewhite;
 }
 
-hr {
+.hr1 {
   padding-top: 0px;
   width: 340px;
   border: 1px solid red;
 }
 
+.hr2 {
+  border: 1px solid red;
+}
+
 #ltgtColor {
   color: red;
+}
+
+.pwLink a {
+  list-style: none;
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+.pwLink {
+  font-family: "Source Code Pro", monospace;
+  align-items: center;
+  text-align: center;
+}
+
+.pwLink :hover {
+  color: cornflowerblue;
 }
