@@ -3,6 +3,13 @@ body {
   max-width: 100%;
 }
 
+.pwText {
+  font-family: "Source Code Pro", monospace;
+  align-items: center;
+  text-align: center;
+  color: antiquewhite;
+}
+
 #heroTitle {
   font-family: "Source Code Pro", monospace;
   align-items: center;
