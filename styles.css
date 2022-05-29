@@ -1,0 +1,32 @@
+.banner-card {
+  position: relative;
+}
+
+.banner-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.banner-text {
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  color: red;
+}
+
+.banner-text a {
+  text-decoration: none;
+  color: white;
+}
+
+.banner-text a:hover {
+  text-decoration: none;
+  color: cornflowerblue;
+  transition: 0.5s;
+}
+
+.banner-text h3 {
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
