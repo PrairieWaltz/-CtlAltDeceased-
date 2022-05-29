@@ -33,11 +33,32 @@
 
 .post-title {
   border: 1px solid red;
-  opacity: 50%;
+  opacity: 80%;
   padding-left: 10px;
-
 }
 
 .post-title h2 {
   text-transform: uppercase;
+  color: whitesmoke;
+  opacity: 90%;
+}
+
+.post-body {
+  color: whitesmoke;
+  opacity: 90%;
+}
+
+.page-contact h2 {
+  color: whitesmoke;
+  opacity: 55%;
+}
+
+.page-contact h4 {
+  color: whitesmoke;
+  opacity: 80%;
+}
+
+.page-contact h5 {
+  color: whitesmoke;
+  opacity: 80%;
 }
