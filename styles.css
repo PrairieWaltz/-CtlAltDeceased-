@@ -4,7 +4,7 @@
 
 .banner-card img {
   max-width: 100%;
-  height: auto;
+  height: auto; 
 }
 
 .banner-text {
@@ -33,11 +33,41 @@
 
 .post-title {
   border: 1px solid red;
-  opacity: 50%;
+  opacity: 70%;
   padding-left: 10px;
 
 }
 
 .post-title h2 {
+  color: white;
   text-transform: uppercase;
+}
+
+.post-date {
+  color: white;
+  opacity: 50%;
+}
+
+.post-body {
+  color: white;
+}
+
+.email h4{
+  color: white;
+  opacity: 50%;
+}
+
+.email h5{
+  color: white;
+  opacity: 70%;
+}
+
+.about h4{
+  color: white;
+  opacity: 50%;
+}
+
+.about h5{
+  color: white;
+  opacity: 70%;
 }
