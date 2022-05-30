@@ -43,6 +43,15 @@
   opacity: 90%;
 }
 
+.pin {
+  color: crimson;
+}
+
+.blog-date {
+  color: whitesmoke;
+  opacity: 50%;
+}
+
 .post-body {
   color: whitesmoke;
   opacity: 90%;
