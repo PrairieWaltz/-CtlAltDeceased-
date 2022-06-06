@@ -42,9 +42,13 @@
   font-weight: bold;
 }
 
+/* PAGE BREAK  */
+
 .hrOne {
   color: grey;
 }
+
+/* BLOG PAGE  */
 
 .post-title {
   border: 1px solid red;
@@ -72,38 +76,6 @@
   opacity: 90%;
 }
 
-.page-contact h2 {
-  color: whitesmoke;
-  opacity: 55%;
-}
-
-.page-contact h4 {
-  color: whitesmoke;
-  opacity: 80%;
-}
-
-.page-contact h5 {
-  color: whitesmoke;
-  opacity: 80%;
-}
-
-.bingoText p {
-  color: crimson;
-}
-
-.container {
-  background-color: black;
-  max-width: 100%;
-  padding: 20px;
-}
-
-.slugShape {
-  position: relative;
-  max-width: 100%;
-  height: 1000px;
-  background-image: url("/images/slugWhite.png");
-}
-
 /* CONTACT PAGE */
 
 .page-contact {
@@ -119,6 +91,47 @@
   text-decoration: none;
   color: cornflowerblue;
   transition: 0.5s;
+}
+
+.page-contact h2 {
+  color: whitesmoke;
+  opacity: 55%;
+}
+
+.page-contact h4 {
+  color: whitesmoke;
+  opacity: 80%;
+}
+
+.page-contact h5 {
+  color: whitesmoke;
+  opacity: 80%;
+}
+
+/* CARD ELEMENTS */
+
+.bingoText p {
+  color: crimson;
+}
+
+.container {
+  background-color: black;
+  max-width: 100%;
+  padding: 20px;
+}
+
+/* SHAPE AND TEXT */
+
+.slugShape {
+  position: relative;
+  max-width: 100%;
+  height: 800px;
+  background-image: url("/images/slugWhite.png");
+}
+
+.slugShape h5 {
+  color: #e0e1dd;
+  font-size: 2em;
 }
 
 /* WINDOW BREAK  */
